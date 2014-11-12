@@ -1,0 +1,431 @@
+TTao
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Tao.app/ResourceRules.plist
+cProcessPCH /Users/acorld/Desktop/Tao/Build/Intermediates/PrecompiledHeaders/Tao-Prefix-hfjseuduxtegawhkuurfssfefawm/Tao-Prefix.pch.pch Tao/Tao-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/ViewController.o /Users/acorld/Desktop/Tao/Tao/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/AppDelegate.o /Users/acorld/Desktop/Tao/Tao/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/main.o /Users/acorld/Desktop/Tao/Tao/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/Tao normal arm64
+cCopyPNGFile /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/icon.png Tao/icon.png
+cCopyStringsFile /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/en.lproj/InfoPlist.strings Tao/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/acorld/Desktop/Tao/Tao/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app /Users/acorld/Desktop/Tao/Tao/Images.xcassets
+cProcessInfoPlistFile /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/Info.plist /Users/acorld/Desktop/Tao/Tao/Tao-Info.plist
+cGenerateDSYMFile /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app.dSYM /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/Tao
+cProcessProductPackaging /Users/acorld/Library/MobileDevice/Provisioning\ Profiles/1BFF62D4-E066-495C-94A1-FF1E9E41BEA6.mobileprovision /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/embedded.mobileprovision
+cTouch /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao.xcent
+cCodeSign /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053D1BABC0000000000000132
+t1406253756
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c00000000533B9F800000000000000094
+t1396416384
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000533B9F800000000000000096
+t1396416384
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000533B9F80000000000000036B
+t1396416384
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9F82000000000000019E
+t1396416386
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533B9F8300000000004D7BC0
+t1396416387
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533B9F840000000000A90C10
+t1396416388
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533B9F880000000002759920
+t1396416392
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533B6DFC0000000000000ADC
+t1396403708
+s2780
+
+N/Users/acorld/Desktop/Tao/Build/Intermediates/PrecompiledHeaders/Tao-Prefix-hfjseuduxtegawhkuurfssfefawm/Tao-Prefix.pch.pch
+t1406707721
+s116004
+
+N/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/AppDelegate.o
+t1406707722
+s66352
+
+N/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/Tao.LinkFileList
+c0000000053D8A8090000000000000158
+t1406707721
+s344
+
+N/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/ViewController.o
+t1406707722
+s38448
+
+N/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/main.o
+t1406707722
+s4136
+
+N/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao.xcent
+t1406707723
+s469
+
+N/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/assetcatalog_dependencies.txt
+t1406707722
+s311
+
+N/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/assetcatalog_generated_info.plist
+t1406707722
+s585
+
+N/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app
+t1406707723
+s408
+
+N/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app.dSYM
+t2
+s0
+
+N/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/Base.lproj/Main.storyboardc
+t1406707723
+s170
+
+N/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/Info.plist
+t1406707723
+s1312
+
+N/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/PkgInfo
+t1406707723
+s8
+
+N/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/ResourceRules.plist
+t1406707721
+s150
+
+N/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/Tao
+t1406707722
+s54012
+
+N/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/embedded.mobileprovision
+t1406707723
+s10488
+
+N/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/en.lproj/InfoPlist.strings
+t1406707722
+s42
+
+N/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/icon.png
+t1406707722
+s30123
+
+N/Users/acorld/Desktop/Tao/Tao/AppDelegate.m
+c0000000053D8A4DB00000000000007CC
+t1406706907
+s1996
+
+N/Users/acorld/Desktop/Tao/Tao/Base.lproj/Main.storyboard
+c0000000053D8A4DB000000000000071B
+t1406706907
+s1819
+
+N/Users/acorld/Desktop/Tao/Tao/Images.xcassets
+c0000000053D8A4DB0000000000000088
+t1406706907
+s136
+
+N/Users/acorld/Desktop/Tao/Tao/Tao-Info.plist
+c0000000053D8A7F600000000000004C2
+t1406707702
+s1218
+
+N/Users/acorld/Desktop/Tao/Tao/Tao-Prefix.pch
+c0000000053D8A4DB0000000000000158
+t1406706907
+s344
+
+N/Users/acorld/Desktop/Tao/Tao/ViewController.m
+c0000000053D8A4DB00000000000001E2
+t1406706907
+s482
+
+N/Users/acorld/Desktop/Tao/Tao/en.lproj/InfoPlist.strings
+c0000000053D8A4DB000000000000002D
+t1406706907
+s45
+
+N/Users/acorld/Desktop/Tao/Tao/icon.png
+c0000000053D8A4760000000000005EFC
+t1406706806
+s24316
+
+N/Users/acorld/Desktop/Tao/Tao/main.m
+c0000000053D8A4DB0000000000000146
+t1406706907
+s326
+
+N/Users/acorld/Library/MobileDevice/Provisioning Profiles/1BFF62D4-E066-495C-94A1-FF1E9E41BEA6.mobileprovision
+c000000005391243400000000000028F8
+t1402020916
+s10488
+
+CBuild AST from /Users/acorld/Desktop/Tao/Tao/AppDelegate.m
+r0
+
+CBuild AST from /Users/acorld/Desktop/Tao/Tao/ViewController.m
+r0
+
+CBuild AST from /Users/acorld/Desktop/Tao/Tao/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc43e6d89df88b941^09377589df88b941^---0#1#1#--18"Check dependencies36"5F7BE746-6B36-4509-9686-B512DF3536DE-
+
+CCodeSign /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app
+s428400523.489235
+e428400526.612227
+r1
+xCodeSign
+x/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"CodeSign Build/Products/Debug-iphoneos/Tao.app46"CodeSign Build/Products/Debug-iphoneos/Tao.app685b7d8bdf88b941^213e9c8edf88b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/0000000000000000^930"CodeSign Build/Products/Debug-iphoneos/Tao.app    cd /Users/acorld/Desktop/Tao    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: GameWave XiYou (299W4DX2Q9)" and provisioning profile "iOS Team Provisioning Profile: *" (1BFF62D4-E066-495C-94A1-FF1E9E41BEA6)    /usr/bin/codesign --force --sign BB3FEAF629A66AE608A4BA8CFE4B0EFD8E5AC88F --resource-rules=/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/ResourceRules.plist --entitlements /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao.xcent /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app36"26749056-366A-4275-A630-DEF141F8847A-
+bA91296D8-B56E-43D5-B21E-45516E2BB9A0
+
+CCompileAssetCatalog /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app /Users/acorld/Desktop/Tao/Tao/Images.xcassets
+s428400522.394316
+e428400522.502409
+r1
+xCompileAssetCatalog
+x/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app
+x/Users/acorld/Desktop/Tao/Tao/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/LaunchImage-700-568h@2x.png
+o/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/LaunchImage-568h@2x.png
+o/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"CompileAssetCatalog Build/Products/Debug-iphoneos/Tao.app Tao/Images.xcassets77"CompileAssetCatalog Build/Products/Debug-iphoneos/Tao.app Tao/Images.xcassets8a06658adf88b941^679e808adf88b941^-339"/* com.apple.actool.compilation-results *//Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/LaunchImage-700-568h@2x.png/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/LaunchImage-568h@2x.png/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@53"file:///Users/acorld/Desktop/Tao/Tao/Images.xcassets/0000000000000000^954"CompileAssetCatalog Build/Products/Debug-iphoneos/Tao.app Tao/Images.xcassets    cd /Users/acorld/Desktop/Tao    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 6.1 --target-device iphone --compress-pngs --compile /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app /Users/acorld/Desktop/Tao/Tao/Images.xcassets36"8DD7BEF7-1C26-4904-9EAC-62C2F8A213C8-
+bA91296D8-B56E-43D5-B21E-45516E2BB9A0
+
+CCompileC Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/AppDelegate.o /Users/acorld/Desktop/Tao/Tao/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428400521.838034
+e428400522.156379
+r1
+xCompileC
+xBuild/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/AppDelegate.o
+x/Users/acorld/Desktop/Tao/Tao/AppDelegate.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/acorld/Desktop/Tao/Tao/AppDelegate.m
+d/Users/acorld/Desktop/Tao/Tao/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Users/acorld/Desktop/Tao/Tao/AppDelegate.m185"CompileC Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/AppDelegate.o Tao/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler51a1d689df88b941^ae0e288adf88b941^---0#0#1#-19%DVTDocumentLocation2@50"file:///Users/acorld/Desktop/Tao/Tao/AppDelegate.m0000000000000000^3185"CompileC Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/AppDelegate.o Tao/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/acorld/Desktop/Tao    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/acorld/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao-generated-files.hmap -I/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao-own-target-headers.hmap -I/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao-all-target-headers.hmap -iquote /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao-project-headers.hmap -I/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/DerivedSources/arm64 -I/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/DerivedSources -F/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos -include /Users/acorld/Desktop/Tao/Build/Intermediates/PrecompiledHeaders/Tao-Prefix-hfjseuduxtegawhkuurfssfefawm/Tao-Prefix.pch -MMD -MT dependencies -MF /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/AppDelegate.d --serialize-diagnostics /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/AppDelegate.dia -c /Users/acorld/Desktop/Tao/Tao/AppDelegate.m -o /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/AppDelegate.o36"ACDC4C54-2854-4538-80C7-260D4E777034-
+bA91296D8-B56E-43D5-B21E-45516E2BB9A0
+
+CCompileC Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/ViewController.o /Users/acorld/Desktop/Tao/Tao/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428400521.837873
+e428400522.156360
+r1
+xCompileC
+xBuild/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/ViewController.o
+x/Users/acorld/Desktop/Tao/Tao/ViewController.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/acorld/Desktop/Tao/Tao/ViewController.m
+d/Users/acorld/Desktop/Tao/Tao/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Users/acorld/Desktop/Tao/Tao/ViewController.m191"CompileC Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/ViewController.o Tao/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler529dd689df88b941^7408288adf88b941^---0#0#1#-19%DVTDocumentLocation2@53"file:///Users/acorld/Desktop/Tao/Tao/ViewController.m0000000000000000^3203"CompileC Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/ViewController.o Tao/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/acorld/Desktop/Tao    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/acorld/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao-generated-files.hmap -I/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao-own-target-headers.hmap -I/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao-all-target-headers.hmap -iquote /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao-project-headers.hmap -I/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/DerivedSources/arm64 -I/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/DerivedSources -F/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos -include /Users/acorld/Desktop/Tao/Build/Intermediates/PrecompiledHeaders/Tao-Prefix-hfjseuduxtegawhkuurfssfefawm/Tao-Prefix.pch -MMD -MT dependencies -MF /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/ViewController.d --serialize-diagnostics /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/ViewController.dia -c /Users/acorld/Desktop/Tao/Tao/ViewController.m -o /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/ViewController.o36"AAB306AE-24ED-4B15-9ABD-001BDC4E5774-
+bA91296D8-B56E-43D5-B21E-45516E2BB9A0
+
+CCompileC Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/main.o /Users/acorld/Desktop/Tao/Tao/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428400521.838212
+e428400522.155661
+r1
+xCompileC
+xBuild/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/main.o
+x/Users/acorld/Desktop/Tao/Tao/main.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/acorld/Desktop/Tao/Tao/main.m
+d/Users/acorld/Desktop/Tao/Tao/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/acorld/Desktop/Tao/Tao/main.m171"CompileC Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/main.o Tao/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf2b2d689df88b941^3cdb278adf88b941^---0#0#1#-19%DVTDocumentLocation2@43"file:///Users/acorld/Desktop/Tao/Tao/main.m0000000000000000^3143"CompileC Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/main.o Tao/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/acorld/Desktop/Tao    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/acorld/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao-generated-files.hmap -I/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao-own-target-headers.hmap -I/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao-all-target-headers.hmap -iquote /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao-project-headers.hmap -I/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/DerivedSources/arm64 -I/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/DerivedSources -F/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos -include /Users/acorld/Desktop/Tao/Build/Intermediates/PrecompiledHeaders/Tao-Prefix-hfjseuduxtegawhkuurfssfefawm/Tao-Prefix.pch -MMD -MT dependencies -MF /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/main.d --serialize-diagnostics /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/main.dia -c /Users/acorld/Desktop/Tao/Tao/main.m -o /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/main.o36"08789A33-82EE-49C6-AD66-2D4301C35227-
+bA91296D8-B56E-43D5-B21E-45516E2BB9A0
+
+CCompileStoryboard /Users/acorld/Desktop/Tao/Tao/Base.lproj/Main.storyboard
+s428400522.393212
+e428400523.419118
+r1
+xCompileStoryboard
+x/Users/acorld/Desktop/Tao/Tao/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"CompileStoryboard Tao/Base.lproj/Main.storyboard48"CompileStoryboard Tao/Base.lproj/Main.storyboardc3bb648adf88b941^0edc898bdf88b941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/acorld/Desktop/Tao/Tao/Base.lproj/Main.storyboard0000000000000000^729"CompileStoryboard Tao/Base.lproj/Main.storyboard    cd /Users/acorld/Desktop/Tao    export IBSC_MINIMUM_COMPATIBILITY_VERSION=6.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.1 --output-format human-readable-text --compile /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/Base.lproj/Main.storyboardc /Users/acorld/Desktop/Tao/Tao/Base.lproj/Main.storyboard36"D743DB61-138A-4944-9EE2-3197C508E8CF-
+bA91296D8-B56E-43D5-B21E-45516E2BB9A0
+
+CCopyPNGFile /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/icon.png Tao/icon.png
+s428400522.392921
+e428400522.604630
+r1
+xCopyPNGFile
+x/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/icon.png
+xTao/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"CopyPNGFile Build/Products/Debug-iphoneos/Tao.app/icon.png Tao/icon.png71"CopyPNGFile Build/Products/Debug-iphoneos/Tao.app/icon.png Tao/icon.png7fa4648adf88b941^bcca9a8adf88b941^---0#0#1#-19%DVTDocumentLocation2@45"file:///Users/acorld/Desktop/Tao/Tao/icon.png0000000000000000^516"CopyPNGFile Build/Products/Debug-iphoneos/Tao.app/icon.png Tao/icon.png    cd /Users/acorld/Desktop/Tao    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/acorld/Desktop/Tao/Tao/icon.png /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/icon.png36"381308BA-2034-4F9E-9F92-D05AC7B5274F-
+bA91296D8-B56E-43D5-B21E-45516E2BB9A0
+
+CCopyStringsFile /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/en.lproj/InfoPlist.strings Tao/en.lproj/InfoPlist.strings
+s428400522.393033
+e428400522.394887
+r1
+xCopyStringsFile
+x/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/en.lproj/InfoPlist.strings
+xTao/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Copy Tao/en.lproj/InfoPlist.strings111"CopyStringsFile Build/Products/Debug-iphoneos/Tao.app/en.lproj/InfoPlist.strings Tao/en.lproj/InfoPlist.strings21ae648adf88b941^871a658adf88b941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/acorld/Desktop/Tao/Tao/en.lproj/InfoPlist.strings0000000000000000^530"CopyStringsFile Build/Products/Debug-iphoneos/Tao.app/en.lproj/InfoPlist.strings Tao/en.lproj/InfoPlist.strings    cd /Users/acorld/Desktop/Tao    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/en.lproj -- Tao/en.lproj/InfoPlist.strings36"36560B1E-B95C-45E3-B51F-804162F4B6B0-
+bA91296D8-B56E-43D5-B21E-45516E2BB9A0
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Tao.app/ResourceRules.plist
+s428400521.458480
+e428400521.459554
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xBuild/Products/Debug-iphoneos/Tao.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy Build/Products/Debug-iphoneos/Tao.app/ResourceRules.plist190"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Tao.app/ResourceRules.plist1e6c7589df88b941^04c77589df88b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/ResourceRules.plist0034dc90dcffdf42^710"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Tao.app/ResourceRules.plist    cd /Users/acorld/Desktop/Tao    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app36"D0530DCF-1F7D-4A2D-A96F-764F0185C7C3-
+bA91296D8-B56E-43D5-B21E-45516E2BB9A0
+
+CGenerateDSYMFile /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app.dSYM /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/Tao
+s428400523.425214
+e428400523.483002
+r1
+xGenerateDSYMFile
+x/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app.dSYM
+x/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/Tao
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Generate /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app.dSYM101"GenerateDSYMFile Build/Products/Debug-iphoneos/Tao.app.dSYM Build/Products/Debug-iphoneos/Tao.app/Tao7cf26c8bdf88b941^76fe898bdf88b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app.dSYM0034dc90dcffdf42^563"GenerateDSYMFile Build/Products/Debug-iphoneos/Tao.app.dSYM Build/Products/Debug-iphoneos/Tao.app/Tao    cd /Users/acorld/Desktop/Tao    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/Tao -o /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app.dSYM36"61A7734B-15E4-4A24-A4DD-B49CA9F27B96-
+bA91296D8-B56E-43D5-B21E-45516E2BB9A0
+
+CLd /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/Tao normal arm64
+s428400522.156970
+e428400522.392034
+r1
+xLd
+x/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/Tao
+xnormal
+xarm64
+d/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/Tao.LinkFileList
+d/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/ViewController.o
+d/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/AppDelegate.o
+d/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Link /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/Tao57"Ld Build/Products/Debug-iphoneos/Tao.app/Tao normal arm64083c288adf88b941^d15b648adf88b941^---0#0#1#--1152"Ld Build/Products/Debug-iphoneos/Tao.app/Tao normal arm64    cd /Users/acorld/Desktop/Tao    export IPHONEOS_DEPLOYMENT_TARGET=6.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos -F/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos -filelist /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/Tao.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Objects-normal/arm64/Tao_dependency_info.dat -o /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/Tao36"57F3360C-AB65-42A5-A985-E7AF9C46EDDC-
+bA91296D8-B56E-43D5-B21E-45516E2BB9A0
+
+CProcessInfoPlistFile /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/Info.plist /Users/acorld/Desktop/Tao/Tao/Tao-Info.plist
+s428400523.420845
+e428400523.424564
+r1
+xProcessInfoPlistFile
+x/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/Info.plist
+x/Users/acorld/Desktop/Tao/Tao/Tao-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Process /Users/acorld/Desktop/Tao/Tao/Tao-Info.plist88"ProcessInfoPlistFile Build/Products/Debug-iphoneos/Tao.app/Info.plist Tao/Tao-Info.plistc9ca6b8bdf88b941^13ee898bdf88b941^---0#0#1#-19%DVTDocumentLocation2@51"file:///Users/acorld/Desktop/Tao/Tao/Tao-Info.plist0000000000000000^842"ProcessInfoPlistFile Build/Products/Debug-iphoneos/Tao.app/Info.plist Tao/Tao-Info.plist    cd /Users/acorld/Desktop/Tao    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/acorld/Desktop/Tao/Tao/Tao-Info.plist -genpkginfo /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/ResourceRules.plist -additionalcontentfile /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/assetcatalog_generated_info.plist -o /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/Info.plist36"0F85780A-3D6E-4E14-B988-8159E3481757-
+bA91296D8-B56E-43D5-B21E-45516E2BB9A0
+
+CProcessPCH /Users/acorld/Desktop/Tao/Build/Intermediates/PrecompiledHeaders/Tao-Prefix-hfjseuduxtegawhkuurfssfefawm/Tao-Prefix.pch.pch Tao/Tao-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428400521.460186
+e428400521.837260
+r1
+xProcessPCH
+x/Users/acorld/Desktop/Tao/Build/Intermediates/PrecompiledHeaders/Tao-Prefix-hfjseuduxtegawhkuurfssfefawm/Tao-Prefix.pch.pch
+xTao/Tao-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/acorld/Desktop/Tao/Tao/Tao-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Precompile Tao/Tao-Prefix.pch196"ProcessPCH Build/Intermediates/PrecompiledHeaders/Tao-Prefix-hfjseuduxtegawhkuurfssfefawm/Tao-Prefix.pch.pch Tao/Tao-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0de07589df88b941^7557d689df88b941^---0#0#1#-19%DVTDocumentLocation2@51"file:///Users/acorld/Desktop/Tao/Tao/Tao-Prefix.pch0000000000000000^3095"ProcessPCH Build/Intermediates/PrecompiledHeaders/Tao-Prefix-hfjseuduxtegawhkuurfssfefawm/Tao-Prefix.pch.pch Tao/Tao-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/acorld/Desktop/Tao    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/acorld/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao-generated-files.hmap -I/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao-own-target-headers.hmap -I/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao-all-target-headers.hmap -iquote /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao-project-headers.hmap -I/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/DerivedSources/arm64 -I/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/DerivedSources -F/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/acorld/Desktop/Tao/Build/Intermediates/PrecompiledHeaders/Tao-Prefix-hfjseuduxtegawhkuurfssfefawm/Tao-Prefix.pch.dia -MMD -MT dependencies -MF /Users/acorld/Desktop/Tao/Build/Intermediates/PrecompiledHeaders/Tao-Prefix-hfjseuduxtegawhkuurfssfefawm/Tao-Prefix.pch.d -c /Users/acorld/Desktop/Tao/Tao/Tao-Prefix.pch -o /Users/acorld/Desktop/Tao/Build/Intermediates/PrecompiledHeaders/Tao-Prefix-hfjseuduxtegawhkuurfssfefawm/Tao-Prefix.pch.pch36"0C6241F5-6952-4284-833D-0D2B1FD33DE3-
+bA91296D8-B56E-43D5-B21E-45516E2BB9A0
+
+CProcessPCH /Users/acorld/Library/Developer/Xcode/DerivedData/Tao-dgvyffahlgnoonatbiltcbaycixq/Index/PrecompiledHeaders/Tao-Prefix-dlspfzfqoxbkvgfuxbtbomowmwtv_ast/Tao-Prefix.pch.pch Tao/Tao-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao.xcent
+s428400523.487109
+e428400523.488526
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection209"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao.xcent209"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao.xcentfcc57c8bdf88b941^4f038a8bdf88b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao.xcent0034dc90dcffdf42^708"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao.xcent    cd /Users/acorld/Desktop/Tao    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/acorld/Desktop/Tao/Build/Intermediates/Tao.build/Debug-iphoneos/Tao.build/Tao.xcent36"8C79393F-1448-4DAD-A321-02EC709F2479-
+bA91296D8-B56E-43D5-B21E-45516E2BB9A0
+
+CProcessProductPackaging /Users/acorld/Library/MobileDevice/Provisioning\ Profiles/1BFF62D4-E066-495C-94A1-FF1E9E41BEA6.mobileprovision /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/embedded.mobileprovision
+s428400523.484015
+e428400523.486192
+r1
+xProcessProductPackaging
+x/Users/acorld/Library/MobileDevice/Provisioning Profiles/1BFF62D4-E066-495C-94A1-FF1E9E41BEA6.mobileprovision
+x/Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection197"ProcessProductPackaging /Users/acorld/Library/MobileDevice/Provisioning\ Profiles/1BFF62D4-E066-495C-94A1-FF1E9E41BEA6.mobileprovision Build/Products/Debug-iphoneos/Tao.app/embedded.mobileprovision197"ProcessProductPackaging /Users/acorld/Library/MobileDevice/Provisioning\ Profiles/1BFF62D4-E066-495C-94A1-FF1E9E41BEA6.mobileprovision Build/Products/Debug-iphoneos/Tao.app/embedded.mobileprovision65fc7b8bdf88b941^47018a8bdf88b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/embedded.mobileprovision0034dc90dcffdf42^658"ProcessProductPackaging /Users/acorld/Library/MobileDevice/Provisioning\ Profiles/1BFF62D4-E066-495C-94A1-FF1E9E41BEA6.mobileprovision Build/Products/Debug-iphoneos/Tao.app/embedded.mobileprovision    cd /Users/acorld/Desktop/Tao    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/acorld/Library/MobileDevice/Provisioning\ Profiles/1BFF62D4-E066-495C-94A1-FF1E9E41BEA6.mobileprovision -o /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app/embedded.mobileprovision36"4B9E1831-7E26-4B48-98EB-DC9A7E9E3933-
+bA91296D8-B56E-43D5-B21E-45516E2BB9A0
+
+CTouch /Users/acorld/Desktop/Tao/Build/Products/Debug-iphoneos/Tao.app
+r0
+

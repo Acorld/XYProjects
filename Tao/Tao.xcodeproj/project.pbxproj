@@ -1,0 +1,517 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4600551E1988DC5B00A66E1A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4600551D1988DC5B00A66E1A /* Foundation.framework */; };
+		460055201988DC5B00A66E1A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4600551F1988DC5B00A66E1A /* CoreGraphics.framework */; };
+		460055221988DC5B00A66E1A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 460055211988DC5B00A66E1A /* UIKit.framework */; };
+		460055281988DC5B00A66E1A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 460055261988DC5B00A66E1A /* InfoPlist.strings */; };
+		4600552A1988DC5B00A66E1A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 460055291988DC5B00A66E1A /* main.m */; };
+		4600552E1988DC5B00A66E1A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4600552D1988DC5B00A66E1A /* AppDelegate.m */; };
+		460055311988DC5B00A66E1A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4600552F1988DC5B00A66E1A /* Main.storyboard */; };
+		460055341988DC5B00A66E1A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 460055331988DC5B00A66E1A /* ViewController.m */; };
+		460055361988DC5B00A66E1A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 460055351988DC5B00A66E1A /* Images.xcassets */; };
+		4600553D1988DC5B00A66E1A /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4600553C1988DC5B00A66E1A /* XCTest.framework */; };
+		4600553E1988DC5B00A66E1A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4600551D1988DC5B00A66E1A /* Foundation.framework */; };
+		4600553F1988DC5B00A66E1A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 460055211988DC5B00A66E1A /* UIKit.framework */; };
+		460055471988DC5B00A66E1A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 460055451988DC5B00A66E1A /* InfoPlist.strings */; };
+		460055491988DC5B00A66E1A /* TaoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 460055481988DC5B00A66E1A /* TaoTests.m */; };
+		460055591988DF6700A66E1A /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 460055581988DF6700A66E1A /* icon.png */; };
+		46AECC6119CBD2900043B5E8 /* RTLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 46AECC6019CBD2900043B5E8 /* RTLabel.m */; };
+		46AECC6319CBD4910043B5E8 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 46AECC6219CBD4910043B5E8 /* 1.png */; };
+		46E506D319C02D1900AB5897 /* DemoModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 46E506D219C02D1900AB5897 /* DemoModel.m */; };
+		46FCB32F19DAEB0A000861DF /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 46FCB32E19DAEB0A000861DF /* TestViewController.m */; };
+		46FD695619B6C51600D85FBF /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46FD695519B6C51600D85FBF /* CoreText.framework */; };
+		46FD695919B6E1F600D85FBF /* MyView.m in Sources */ = {isa = PBXBuildFile; fileRef = 46FD695819B6E1F600D85FBF /* MyView.m */; };
+		46FE39AC19BB041300BAE200 /* ExceptionObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 46FE39AB19BB041300BAE200 /* ExceptionObject.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		460055401988DC5B00A66E1A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 460055121988DC5B00A66E1A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 460055191988DC5B00A66E1A;
+			remoteInfo = Tao;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		4600551A1988DC5B00A66E1A /* Tao.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tao.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4600551D1988DC5B00A66E1A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		4600551F1988DC5B00A66E1A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		460055211988DC5B00A66E1A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		460055251988DC5B00A66E1A /* Tao-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Tao-Info.plist"; sourceTree = "<group>"; };
+		460055271988DC5B00A66E1A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		460055291988DC5B00A66E1A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4600552B1988DC5B00A66E1A /* Tao-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tao-Prefix.pch"; sourceTree = "<group>"; };
+		4600552C1988DC5B00A66E1A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		4600552D1988DC5B00A66E1A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		460055301988DC5B00A66E1A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		460055321988DC5B00A66E1A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		460055331988DC5B00A66E1A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		460055351988DC5B00A66E1A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		4600553B1988DC5B00A66E1A /* TaoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TaoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4600553C1988DC5B00A66E1A /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		460055441988DC5B00A66E1A /* TaoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TaoTests-Info.plist"; sourceTree = "<group>"; };
+		460055461988DC5B00A66E1A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		460055481988DC5B00A66E1A /* TaoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TaoTests.m; sourceTree = "<group>"; };
+		460055581988DF6700A66E1A /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		46AECC5F19CBD2900043B5E8 /* RTLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RTLabel.h; sourceTree = "<group>"; };
+		46AECC6019CBD2900043B5E8 /* RTLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RTLabel.m; sourceTree = "<group>"; };
+		46AECC6219CBD4910043B5E8 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		46E506D119C02D1900AB5897 /* DemoModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoModel.h; sourceTree = "<group>"; };
+		46E506D219C02D1900AB5897 /* DemoModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoModel.m; sourceTree = "<group>"; };
+		46FCB32D19DAEB0A000861DF /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		46FCB32E19DAEB0A000861DF /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
+		46FD695519B6C51600D85FBF /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
+		46FD695719B6E1F600D85FBF /* MyView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyView.h; sourceTree = "<group>"; };
+		46FD695819B6E1F600D85FBF /* MyView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyView.m; sourceTree = "<group>"; };
+		46FE39AA19BB041300BAE200 /* ExceptionObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExceptionObject.h; sourceTree = "<group>"; };
+		46FE39AB19BB041300BAE200 /* ExceptionObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExceptionObject.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		460055171988DC5B00A66E1A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				46FD695619B6C51600D85FBF /* CoreText.framework in Frameworks */,
+				460055201988DC5B00A66E1A /* CoreGraphics.framework in Frameworks */,
+				460055221988DC5B00A66E1A /* UIKit.framework in Frameworks */,
+				4600551E1988DC5B00A66E1A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		460055381988DC5B00A66E1A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4600553D1988DC5B00A66E1A /* XCTest.framework in Frameworks */,
+				4600553F1988DC5B00A66E1A /* UIKit.framework in Frameworks */,
+				4600553E1988DC5B00A66E1A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		460055111988DC5B00A66E1A = {
+			isa = PBXGroup;
+			children = (
+				460055231988DC5B00A66E1A /* Tao */,
+				460055421988DC5B00A66E1A /* TaoTests */,
+				4600551C1988DC5B00A66E1A /* Frameworks */,
+				4600551B1988DC5B00A66E1A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4600551B1988DC5B00A66E1A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4600551A1988DC5B00A66E1A /* Tao.app */,
+				4600553B1988DC5B00A66E1A /* TaoTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4600551C1988DC5B00A66E1A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				46FD695519B6C51600D85FBF /* CoreText.framework */,
+				4600551D1988DC5B00A66E1A /* Foundation.framework */,
+				4600551F1988DC5B00A66E1A /* CoreGraphics.framework */,
+				460055211988DC5B00A66E1A /* UIKit.framework */,
+				4600553C1988DC5B00A66E1A /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		460055231988DC5B00A66E1A /* Tao */ = {
+			isa = PBXGroup;
+			children = (
+				46AECC5F19CBD2900043B5E8 /* RTLabel.h */,
+				46AECC6019CBD2900043B5E8 /* RTLabel.m */,
+				460055581988DF6700A66E1A /* icon.png */,
+				46AECC6219CBD4910043B5E8 /* 1.png */,
+				4600552C1988DC5B00A66E1A /* AppDelegate.h */,
+				4600552D1988DC5B00A66E1A /* AppDelegate.m */,
+				4600552F1988DC5B00A66E1A /* Main.storyboard */,
+				460055321988DC5B00A66E1A /* ViewController.h */,
+				460055331988DC5B00A66E1A /* ViewController.m */,
+				46FCB32D19DAEB0A000861DF /* TestViewController.h */,
+				46FCB32E19DAEB0A000861DF /* TestViewController.m */,
+				460055291988DC5B00A66E1A /* main.m */,
+				46FD695719B6E1F600D85FBF /* MyView.h */,
+				46FD695819B6E1F600D85FBF /* MyView.m */,
+				460055351988DC5B00A66E1A /* Images.xcassets */,
+				460055241988DC5B00A66E1A /* Supporting Files */,
+				46FE39AA19BB041300BAE200 /* ExceptionObject.h */,
+				46FE39AB19BB041300BAE200 /* ExceptionObject.m */,
+				46E506D119C02D1900AB5897 /* DemoModel.h */,
+				46E506D219C02D1900AB5897 /* DemoModel.m */,
+			);
+			path = Tao;
+			sourceTree = "<group>";
+		};
+		460055241988DC5B00A66E1A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				460055251988DC5B00A66E1A /* Tao-Info.plist */,
+				460055261988DC5B00A66E1A /* InfoPlist.strings */,
+				4600552B1988DC5B00A66E1A /* Tao-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		460055421988DC5B00A66E1A /* TaoTests */ = {
+			isa = PBXGroup;
+			children = (
+				460055481988DC5B00A66E1A /* TaoTests.m */,
+				460055431988DC5B00A66E1A /* Supporting Files */,
+			);
+			path = TaoTests;
+			sourceTree = "<group>";
+		};
+		460055431988DC5B00A66E1A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				460055441988DC5B00A66E1A /* TaoTests-Info.plist */,
+				460055451988DC5B00A66E1A /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		460055191988DC5B00A66E1A /* Tao */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4600554C1988DC5B00A66E1A /* Build configuration list for PBXNativeTarget "Tao" */;
+			buildPhases = (
+				460055161988DC5B00A66E1A /* Sources */,
+				460055171988DC5B00A66E1A /* Frameworks */,
+				460055181988DC5B00A66E1A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Tao;
+			productName = Tao;
+			productReference = 4600551A1988DC5B00A66E1A /* Tao.app */;
+			productType = "com.apple.product-type.application";
+		};
+		4600553A1988DC5B00A66E1A /* TaoTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4600554F1988DC5B00A66E1A /* Build configuration list for PBXNativeTarget "TaoTests" */;
+			buildPhases = (
+				460055371988DC5B00A66E1A /* Sources */,
+				460055381988DC5B00A66E1A /* Frameworks */,
+				460055391988DC5B00A66E1A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				460055411988DC5B00A66E1A /* PBXTargetDependency */,
+			);
+			name = TaoTests;
+			productName = TaoTests;
+			productReference = 4600553B1988DC5B00A66E1A /* TaoTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		460055121988DC5B00A66E1A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = hxy;
+				TargetAttributes = {
+					4600553A1988DC5B00A66E1A = {
+						TestTargetID = 460055191988DC5B00A66E1A;
+					};
+				};
+			};
+			buildConfigurationList = 460055151988DC5B00A66E1A /* Build configuration list for PBXProject "Tao" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 460055111988DC5B00A66E1A;
+			productRefGroup = 4600551B1988DC5B00A66E1A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				460055191988DC5B00A66E1A /* Tao */,
+				4600553A1988DC5B00A66E1A /* TaoTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		460055181988DC5B00A66E1A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				460055591988DF6700A66E1A /* icon.png in Resources */,
+				460055361988DC5B00A66E1A /* Images.xcassets in Resources */,
+				460055281988DC5B00A66E1A /* InfoPlist.strings in Resources */,
+				460055311988DC5B00A66E1A /* Main.storyboard in Resources */,
+				46AECC6319CBD4910043B5E8 /* 1.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		460055391988DC5B00A66E1A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				460055471988DC5B00A66E1A /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		460055161988DC5B00A66E1A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				46AECC6119CBD2900043B5E8 /* RTLabel.m in Sources */,
+				46E506D319C02D1900AB5897 /* DemoModel.m in Sources */,
+				46FD695919B6E1F600D85FBF /* MyView.m in Sources */,
+				460055341988DC5B00A66E1A /* ViewController.m in Sources */,
+				4600552E1988DC5B00A66E1A /* AppDelegate.m in Sources */,
+				4600552A1988DC5B00A66E1A /* main.m in Sources */,
+				46FCB32F19DAEB0A000861DF /* TestViewController.m in Sources */,
+				46FE39AC19BB041300BAE200 /* ExceptionObject.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		460055371988DC5B00A66E1A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				460055491988DC5B00A66E1A /* TaoTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		460055411988DC5B00A66E1A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 460055191988DC5B00A66E1A /* Tao */;
+			targetProxy = 460055401988DC5B00A66E1A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		460055261988DC5B00A66E1A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				460055271988DC5B00A66E1A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		4600552F1988DC5B00A66E1A /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				460055301988DC5B00A66E1A /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		460055451988DC5B00A66E1A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				460055461988DC5B00A66E1A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4600554A1988DC5B00A66E1A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		4600554B1988DC5B00A66E1A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4600554D1988DC5B00A66E1A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Tao/Tao-Prefix.pch";
+				INFOPLIST_FILE = "Tao/Tao-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		4600554E1988DC5B00A66E1A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Tao/Tao-Prefix.pch";
+				INFOPLIST_FILE = "Tao/Tao-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		460055501988DC5B00A66E1A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Tao.app/Tao";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Tao/Tao-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "TaoTests/TaoTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		460055511988DC5B00A66E1A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Tao.app/Tao";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Tao/Tao-Prefix.pch";
+				INFOPLIST_FILE = "TaoTests/TaoTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		460055151988DC5B00A66E1A /* Build configuration list for PBXProject "Tao" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4600554A1988DC5B00A66E1A /* Debug */,
+				4600554B1988DC5B00A66E1A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4600554C1988DC5B00A66E1A /* Build configuration list for PBXNativeTarget "Tao" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4600554D1988DC5B00A66E1A /* Debug */,
+				4600554E1988DC5B00A66E1A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4600554F1988DC5B00A66E1A /* Build configuration list for PBXNativeTarget "TaoTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				460055501988DC5B00A66E1A /* Debug */,
+				460055511988DC5B00A66E1A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 460055121988DC5B00A66E1A /* Project object */;
+}
